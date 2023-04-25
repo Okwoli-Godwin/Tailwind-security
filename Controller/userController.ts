@@ -27,3 +27,11 @@ export const signinUser = async (req: Request, res: Response) => {
         })
     }
 }
+
+export const Signupuser = async (req: Request, res: Response) => {
+    try {
+        
+    } catch ( ) {
+        
+    }
+}
